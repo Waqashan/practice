@@ -1,4 +1,4 @@
-function sum(){
-    console.log(a+b);
+function div(a,b){
+    console.log(a/b);
 }
-sum(2,3)
+div(4,4)
